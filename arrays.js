@@ -2,5 +2,5 @@
 
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
 
-const addElementToBeginningOfArray = [1]
+var addElementToBeginningOfArray = [1]
 ['foo', ...addElementToBeginningOfArray]
