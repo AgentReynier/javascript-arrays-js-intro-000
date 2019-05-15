@@ -1,4 +1,4 @@
-/* Doin' work on them arrays! */
+// Practicing arrays.
 
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
 
